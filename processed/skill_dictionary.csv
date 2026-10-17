@@ -1,0 +1,36 @@
+skill_id,skill_name,skill_family
+essential:2.A.1.a,Reading Comprehension,essential
+essential:2.A.1.b,Active Listening,essential
+essential:2.A.1.c,Writing,essential
+essential:2.A.1.d,Speaking,essential
+essential:2.A.1.e,Mathematics,essential
+essential:2.A.1.f,Science,essential
+essential:2.A.2.a,Critical Thinking,essential
+essential:2.A.2.b,Active Learning,essential
+essential:2.A.2.c,Learning Strategies,essential
+essential:2.A.2.d,Monitoring,essential
+transferable:2.B.1.a,Social Perceptiveness,transferable
+transferable:2.B.1.b,Coordination,transferable
+transferable:2.B.1.c,Persuasion,transferable
+transferable:2.B.1.d,Negotiation,transferable
+transferable:2.B.1.e,Instructing,transferable
+transferable:2.B.1.f,Service Orientation,transferable
+transferable:2.B.2.i,Complex Problem Solving,transferable
+transferable:2.B.3.a,Operations Analysis,transferable
+transferable:2.B.3.b,Technology Design,transferable
+transferable:2.B.3.c,Equipment Selection,transferable
+transferable:2.B.3.d,Installation,transferable
+transferable:2.B.3.e,Programming,transferable
+transferable:2.B.3.g,Operations Monitoring,transferable
+transferable:2.B.3.h,Operation and Control,transferable
+transferable:2.B.3.j,Equipment Maintenance,transferable
+transferable:2.B.3.k,Troubleshooting,transferable
+transferable:2.B.3.l,Repairing,transferable
+transferable:2.B.3.m,Quality Control Analysis,transferable
+transferable:2.B.4.e,Judgment and Decision Making,transferable
+transferable:2.B.4.g,Systems Analysis,transferable
+transferable:2.B.4.h,Systems Evaluation,transferable
+transferable:2.B.5.a,Time Management,transferable
+transferable:2.B.5.b,Management of Financial Resources,transferable
+transferable:2.B.5.c,Management of Material Resources,transferable
+transferable:2.B.5.d,Management of Personnel Resources,transferable

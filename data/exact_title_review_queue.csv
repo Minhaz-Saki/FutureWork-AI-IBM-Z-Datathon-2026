@@ -1,0 +1,71 @@
+occupation_code,occupation_title,au_code,au_title,title_similarity,growth_pct_10yr,shortage_status,reviewed,review_note
+11-2032.00,Public Relations Managers,131114,Public Relations Manager,1.0,17.5072,no_shortage,no,Exact title match; duties not yet verified
+11-3013.00,Facilities Managers,149913,Facilities Manager,1.0,13.4362,no_shortage,no,Exact title match; duties not yet verified
+11-3121.00,Human Resources Managers,132311,Human Resource Manager,1.0,21.781,no_shortage,no,Exact title match; duties not yet verified
+11-9199.01,Regulatory Affairs Managers,139917,Regulatory Affairs Manager,1.0,20.4231,no_shortage,no,Exact title match; duties not yet verified
+15-1242.00,Database Administrators,262111,Database Administrator,1.0,24.0409,no_shortage,no,Exact title match; duties not yet verified
+15-1254.00,Web Developers,261212,Web Developer,1.0,26.8802,no_shortage,no,Exact title match; duties not yet verified
+15-1299.01,Web Administrators,313113,Web Administrator,1.0,17.4427,no_shortage,no,Exact title match; duties not yet verified
+15-1299.04,Penetration Testers,261317,Penetration Tester,1.0,26.6714,no_shortage,no,Exact title match; duties not yet verified
+15-2021.00,Mathematicians,224112,Mathematician,1.0,27.5112,no_shortage,no,Exact title match; duties not yet verified
+15-2041.00,Statisticians,224116,Statistician,1.0,27.5112,no_shortage,no,Exact title match; duties not yet verified
+15-2051.00,Data Scientists,224115,Data Scientist,1.0,27.5112,no_shortage,no,Exact title match; duties not yet verified
+17-1012.00,Landscape Architects,232112,Landscape Architect,1.0,19.2018,no_shortage,no,Exact title match; duties not yet verified
+17-1022.00,Surveyors,232212,Surveyor,1.0,18.6132,shortage,no,Exact title match; duties not yet verified
+17-2021.00,Agricultural Engineers,233912,Agricultural Engineer,1.0,22.9634,shortage,no,Exact title match; duties not yet verified
+17-2041.00,Chemical Engineers,233111,Chemical Engineer,1.0,23.1847,no_shortage,no,Exact title match; duties not yet verified
+17-2051.00,Civil Engineers,233211,Civil Engineer,1.0,20.9866,shortage,no,Exact title match; duties not yet verified
+17-2071.00,Electrical Engineers,233311,Electrical Engineer,1.0,21.7959,shortage,no,Exact title match; duties not yet verified
+17-2081.00,Environmental Engineers,233915,Environmental Engineer,1.0,22.9634,shortage,no,Exact title match; duties not yet verified
+17-2112.00,Industrial Engineers,233511,Industrial Engineer,1.0,23.0659,no_shortage,no,Exact title match; duties not yet verified
+17-2131.00,Materials Engineers,233112,Materials Engineer,1.0,23.1847,no_shortage,no,Exact title match; duties not yet verified
+17-2141.00,Mechanical Engineers,233512,Mechanical Engineer,1.0,23.0659,no_shortage,no,Exact title match; duties not yet verified
+17-2171.00,Petroleum Engineers,233612,Petroleum Engineer,1.0,18.4765,shortage,no,Exact title match; duties not yet verified
+19-1022.00,Microbiologists,234517,Microbiologist,1.0,19.7506,no_shortage,no,Exact title match; duties not yet verified
+19-2012.00,Physicists,234914,Physicist,1.0,24.6843,no_shortage,no,Exact title match; duties not yet verified
+19-2031.00,Chemists,234211,Chemist,1.0,19.5706,no_shortage,no,Exact title match; duties not yet verified
+19-3011.00,Economists,224311,Economist,1.0,25.9798,no_shortage,no,Exact title match; duties not yet verified
+19-3051.00,Urban and Regional Planners,232611,Urban and Regional Planner,1.0,17.6309,,no,Exact title match; duties not yet verified
+19-3093.00,Historians,272411,Historian,1.0,21.2359,no_shortage,no,Exact title match; duties not yet verified
+25-4011.00,Archivists,224211,Archivist,1.0,29.0963,no_shortage,no,Exact title match; duties not yet verified
+25-4031.00,Library Technicians,399312,Library Technician,1.0,6.9918,no_shortage,no,Exact title match; duties not yet verified
+27-1022.00,Fashion Designers,232311,Fashion Designer,1.0,20.923,no_shortage,no,Exact title match; duties not yet verified
+27-1024.00,Graphic Designers,232411,Graphic Designer,1.0,18.9583,no_shortage,no,Exact title match; duties not yet verified
+27-1025.00,Interior Designers,232511,Interior Designer,1.0,20.023,no_shortage,no,Exact title match; duties not yet verified
+27-2011.00,Actors,211111,Actor,1.0,11.65,no_shortage,no,Exact title match; duties not yet verified
+27-3042.00,Technical Writers,212415,Technical Writer,1.0,18.7458,no_shortage,no,Exact title match; duties not yet verified
+27-4021.00,Photographers,211311,Photographer,1.0,12.8002,no_shortage,no,Exact title match; duties not yet verified
+27-4031.00,"Camera Operators, Television, Video, and Film",399512,"Camera Operator (Film, Television or Video)",1.0,8.2995,no_shortage,no,Exact title match; duties not yet verified
+27-4032.00,Film and Video Editors,212314,Film and Video Editor,1.0,19.1442,shortage,no,Exact title match; duties not yet verified
+29-1011.00,Chiropractors,252111,Chiropractor,1.0,35.9718,shortage,no,Exact title match; duties not yet verified
+29-1041.00,Optometrists,251411,Optometrist,1.0,32.9377,no_shortage,no,Exact title match; duties not yet verified
+29-1081.00,Podiatrists,252611,Podiatrist,1.0,35.713,shortage,no,Exact title match; duties not yet verified
+29-1122.00,Occupational Therapists,252411,Occupational Therapist,1.0,33.0965,shortage,no,Exact title match; duties not yet verified
+29-1128.00,Exercise Physiologists,234915,Exercise Physiologist,1.0,24.6843,no_shortage,no,Exact title match; duties not yet verified
+29-1131.00,Veterinarians,234711,Veterinarian,1.0,17.7978,shortage,no,Exact title match; duties not yet verified
+29-1171.00,Nurse Practitioners,254411,Nurse Practitioner,1.0,26.0821,shortage,no,Exact title match; duties not yet verified
+29-1181.00,Audiologists,252711,Audiologist,1.0,32.7193,shortage,no,Exact title match; duties not yet verified
+29-1213.00,Dermatologists,253911,Dermatologist,1.0,33.0213,shortage,no,Exact title match; duties not yet verified
+29-1217.00,Neurologists,253318,Neurologist,1.0,32.847,shortage,no,Exact title match; duties not yet verified
+29-1223.00,Psychiatrists,253411,Psychiatrist,1.0,32.2648,shortage,no,Exact title match; duties not yet verified
+29-1229.03,Urologists,253518,Urologist,1.0,33.1452,shortage,no,Exact title match; duties not yet verified
+29-1291.00,Acupuncturists,252211,Acupuncturist,1.0,33.9672,no_shortage,no,Exact title match; duties not yet verified
+29-1292.00,Dental Hygienists,411211,Dental Hygienist,1.0,20.6467,shortage,no,Exact title match; duties not yet verified
+29-1299.02,Orthoptists,251412,Orthoptist,1.0,32.9377,shortage,no,Exact title match; duties not yet verified
+29-2033.00,Nuclear Medicine Technologists,251213,Nuclear Medicine Technologist,1.0,33.1274,shortage,no,Exact title match; duties not yet verified
+29-2052.00,Pharmacy Technicians,311215,Pharmacy Technician,1.0,17.4237,,no,Exact title match; duties not yet verified
+29-2091.00,Orthotists and Prosthetists,251912,Orthotist or Prosthetist,1.0,26.951,shortage,no,Exact title match; duties not yet verified
+31-9011.00,Massage Therapists,411611,Massage Therapist,1.0,21.7625,no_shortage,no,Exact title match; duties not yet verified
+31-9091.00,Dental Assistants,423211,Dental Assistant,1.0,26.8245,no_shortage,no,Exact title match; duties not yet verified
+35-3023.01,Baristas,431112,Barista,1.0,11.4467,no_shortage,no,Exact title match; duties not yet verified
+39-3021.00,Motion Picture Projectionists,711912,Motion Picture Projectionist,1.0,9.0117,no_shortage,no,Exact title match; duties not yet verified
+43-4151.00,Order Clerks,591117,Order Clerk,1.0,11.2925,no_shortage,no,Exact title match; duties not yet verified
+47-2022.00,Stonemasons,331112,Stonemason,1.0,9.811,shortage,no,Exact title match; duties not yet verified
+47-2031.00,Carpenters,331212,Carpenter,1.0,10.9167,shortage,no,Exact title match; duties not yet verified
+47-2121.00,Glaziers,333111,Glazier,1.0,3.5515,shortage,no,Exact title match; duties not yet verified
+49-3052.00,Motorcycle Mechanics,321213,Motorcycle Mechanic,1.0,7.5055,shortage,no,Exact title match; duties not yet verified
+51-3011.00,Bakers,351111,Baker,1.0,8.0492,shortage,no,Exact title match; duties not yet verified
+51-6093.00,Upholsterers,393311,Upholsterer,1.0,6.0089,shortage,no,Exact title match; duties not yet verified
+51-7021.00,Furniture Finishers,394211,Furniture Finisher,1.0,6.0907,no_shortage,no,Exact title match; duties not yet verified
+53-2021.00,Air Traffic Controllers,231112,Air Traffic Controller,1.0,13.6582,shortage,no,Exact title match; duties not yet verified
+53-2031.00,Flight Attendants,451711,Flight Attendant,1.0,12.8937,,no,Exact title match; duties not yet verified

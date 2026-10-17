@@ -1,0 +1,917 @@
+au_code,au_title,growth_pct_10yr,shortage_status
+111111,Chief Executive or Managing Director,14.0906,no_shortage
+111211,Corporate General Manager,13.7461,no_shortage
+121111,Aquaculture Farmer,17.5561,no_shortage
+121311,Apiarist,1.2094,no_shortage
+121312,Beef Cattle Farmer,1.2094,no_shortage
+121313,Dairy Cattle Farmer,1.2094,no_shortage
+121314,Deer Farmer,1.2094,no_shortage
+121315,Goat Farmer,1.2094,no_shortage
+121316,Horse Breeder,1.2094,no_shortage
+121318,Pig Farmer,1.2094,no_shortage
+121321,Poultry Farmer,1.2094,no_shortage
+121322,Sheep Farmer,1.2094,no_shortage
+121323,Mixed Cattle and Sheep Farmer,1.2094,no_shortage
+121399,Livestock Farmers nec,1.2094,no_shortage
+121511,Cotton Grower,,no_shortage
+121512,"Grain, Oilseed, Pulse or Pasture Grower / Field Crop Grower",,no_shortage
+121513,Sugar Cane Grower,,no_shortage
+121599,Broadacre Crop Growers nec,,no_shortage
+121611,Flower Grower,,no_shortage
+121612,Fruit Grower,,no_shortage
+121613,Nut Grower,,no_shortage
+121614,Production Nursery Grower,,no_shortage
+121615,Turf Grower,,no_shortage
+121616,Vegetable Grower,,no_shortage
+121617,Wine Grape Grower,,no_shortage
+121699,Horticultural Crop Growers nec,,no_shortage
+121711,Broadacre Crop and Livestock Farmer,,no_shortage
+121799,Mixed Production Farmers nec,,no_shortage
+131112,Sales and Marketing Manager,17.5072,no_shortage
+131113,Advertising Manager,17.5072,no_shortage
+131114,Public Relations Manager,17.5072,no_shortage
+132111,Corporate Services Manager,21.867,no_shortage
+132211,Finance Manager,21.8509,no_shortage
+132311,Human Resource Manager,21.781,no_shortage
+132411,Policy and Planning Manager,20.3136,no_shortage
+132511,Research and Development Manager,22.7862,no_shortage
+133111,Construction Project Manager,22.1859,shortage
+133112,Project Builder,22.1859,no_shortage
+133211,Engineering Manager,15.8088,no_shortage
+133311,Importer or Exporter,16.4007,no_shortage
+133312,Wholesaler,16.4007,no_shortage
+133411,Manufacturer,18.8217,no_shortage
+133511,Production Manager (Forestry),16.795,no_shortage
+133512,Production Manager (Manufacturing),16.795,no_shortage
+133513,Production Manager (Mining),16.795,no_shortage
+133611,Supply and Distribution Manager,15.5279,no_shortage
+133612,Procurement Manager,15.5279,no_shortage
+134111,Child Care Centre Manager,15.9185,no_shortage
+134211,Medical Administrator / Medical Superintendent,27.085,no_shortage
+134212,Nursing Clinical Director,27.085,no_shortage
+134213,Primary Health Organisation Manager,27.085,no_shortage
+134214,Welfare Centre Manager,27.085,no_shortage
+134299,Health and Welfare Services Managers nec,27.085,no_shortage
+134311,School Principal,14.972,no_shortage
+134411,Faculty Head,19.5997,no_shortage
+134412,Regional Education Manager,19.5997,no_shortage
+134499,Education Managers nec,19.5997,no_shortage
+135111,Chief Information Officer,25.4542,no_shortage
+135112,ICT Project Manager,25.4542,no_shortage
+135199,ICT Managers nec,25.4542,no_shortage
+139911,Arts Administrator or Manager,20.4231,no_shortage
+139912,Environmental Manager,20.4231,no_shortage
+139913,Laboratory Manager,20.4231,no_shortage
+139915,Sports Administrator,20.4231,no_shortage
+139916,Quality Assurance Manager,20.4231,no_shortage
+139917,Regulatory Affairs Manager,20.4231,no_shortage
+139999,Specialist Managers nec,20.4231,no_shortage
+141111,Cafe or Restaurant Manager,7.1736,no_shortage
+141211,Caravan Park and Camping Ground Manager,7.6432,no_shortage
+141311,Hotel or Motel Manager,7.3998,no_shortage
+141411,Licensed Club Manager,7.0079,no_shortage
+141911,Bed and Breakfast Operator,9.2693,no_shortage
+141912,Retirement Village Manager,9.2693,no_shortage
+141999,Accommodation and Hospitality Managers nec,9.2693,no_shortage
+142111,Retail Manager (General),6.7716,no_shortage
+142112,Antique Dealer,6.7716,no_shortage
+142113,Betting Agency Manager,6.7716,no_shortage
+142114,Hair or Beauty Salon Manager,6.7716,no_shortage
+142115,Post Office Manager,6.7716,no_shortage
+142116,Travel Agency Manager,6.7716,no_shortage
+149111,Amusement Centre Manager,12.1112,no_shortage
+149112,Fitness Centre Manager,12.1112,no_shortage
+149113,Sports Centre Manager,12.1112,no_shortage
+149211,Call or Contact Centre Manager,13.3956,no_shortage
+149212,Customer Service Manager,13.3956,no_shortage
+149311,Conference and Event Organiser,12.2316,no_shortage
+149411,Fleet Manager,12.237,no_shortage
+149412,Railway Station Manager,12.237,no_shortage
+149413,Transport Company Manager,12.237,no_shortage
+149911,Boarding Kennel or Cattery Operator,13.4362,no_shortage
+149912,Cinema or Theatre Manager,13.4362,no_shortage
+149913,Facilities Manager,13.4362,no_shortage
+149914,Financial Institution Branch Manager,13.4362,no_shortage
+149915,Equipment Hire Manager,13.4362,no_shortage
+149999,"Hospitality, Retail and Service Managers nec",13.4362,no_shortage
+211111,Actor,11.65,no_shortage
+211112,Dancer or Choreographer,11.65,no_shortage
+211113,Entertainer or Variety Artist,11.65,no_shortage
+211199,"Actors, Dancers and Other Entertainers nec",11.65,no_shortage
+211211,Composer,11.0096,no_shortage
+211212,Music Director,11.0096,no_shortage
+211213,Musician (Instrumental),11.0096,no_shortage
+211214,Singer,11.0096,no_shortage
+211299,Music Professionals nec,11.0096,no_shortage
+211311,Photographer,12.8002,no_shortage
+211411,Painter (Visual Arts),11.7742,no_shortage
+211412,Potter or Ceramic Artist,11.7742,no_shortage
+211413,Sculptor,11.7742,no_shortage
+211499,Visual Arts and Crafts Professionals nec,11.7742,no_shortage
+212111,Artistic Director,18.948,no_shortage
+212112,Media Producer (excluding Video),18.948,no_shortage
+212113,Radio Presenter,18.948,no_shortage
+212114,Television Presenter,18.948,no_shortage
+212211,Author,18.2105,no_shortage
+212212,Book or Script Editor,18.2105,no_shortage
+212311,"Art Director (Film, Television or Stage)",19.1442,no_shortage
+212312,"Director (Film, Television, Radio or Stage)",19.1442,no_shortage
+212313,Director of Photography,19.1442,no_shortage
+212314,Film and Video Editor,19.1442,shortage
+212315,Program Director (Television or Radio),19.1442,no_shortage
+212316,Stage Manager,19.1442,no_shortage
+212317,Technical Director,19.1442,no_shortage
+212318,Video Producer,19.1442,no_shortage
+212399,"Film, Television, Radio and Stage Directors nec",19.1442,no_shortage
+212411,Copywriter,18.7458,no_shortage
+212412,Newspaper or Periodical Editor,18.7458,no_shortage
+212413,Print Journalist,18.7458,no_shortage
+212414,Radio Journalist,18.7458,no_shortage
+212415,Technical Writer,18.7458,no_shortage
+212416,Television Journalist,18.7458,no_shortage
+212499,Journalists and Other Writers nec,18.7458,no_shortage
+221111,Accountant (General),16.6263,no_shortage
+221112,Management Accountant,16.6263,no_shortage
+221113,Taxation Accountant,16.6263,shortage
+221211,Company Secretary,15.8943,no_shortage
+221212,Corporate Treasurer,15.8943,no_shortage
+221213,External Auditor,15.8943,shortage
+221214,Internal Auditor,15.8943,no_shortage
+222111,Commodities Trader,12.6486,no_shortage
+222112,Finance Broker,12.6486,no_shortage
+222113,Insurance Broker,12.6486,no_shortage
+222199,Financial Brokers nec,12.6486,no_shortage
+222211,Financial Market Dealer,12.4661,no_shortage
+222212,Futures Trader,12.4661,no_shortage
+222213,Stockbroking Dealer,12.4661,no_shortage
+222299,Financial Dealers nec,12.4661,no_shortage
+222311,Financial Investment Adviser,12.7291,no_shortage
+222312,Financial Investment Manager,12.7291,no_shortage
+223111,Human Resource Adviser,14.7717,no_shortage
+223112,Recruitment Consultant,14.7717,no_shortage
+223113,Workplace Relations Adviser,14.7717,no_shortage
+223311,Training and Development Professional,14.8638,no_shortage
+224111,Actuary,27.5112,shortage
+224112,Mathematician,27.5112,no_shortage
+224114,Data Analyst,27.5112,no_shortage
+224115,Data Scientist,27.5112,no_shortage
+224116,Statistician,27.5112,no_shortage
+224211,Archivist,29.0963,no_shortage
+224212,Gallery or Museum Curator,29.0963,no_shortage
+224213,Health Information Manager,29.0963,no_shortage
+224214,Records Manager,29.0963,no_shortage
+224311,Economist,25.9798,no_shortage
+224411,Intelligence Officer,25.167,no_shortage
+224412,Policy Analyst,25.167,no_shortage
+224511,Land Economist,29.3268,no_shortage
+224512,Valuer,29.3268,no_shortage
+224611,Librarian,25.8987,no_shortage
+224712,Organisation and Methods Analyst,27.3111,no_shortage
+224713,Management Consultant,27.3111,no_shortage
+224714,Supply Chain Analyst,27.3111,no_shortage
+224911,Electorate Officer,26.614,no_shortage
+224912,Liaison Officer,26.614,no_shortage
+224913,Migration Agent / Immigration Consultant,26.614,no_shortage
+224914,Patents Examiner,26.614,no_shortage
+224999,Information and Organisation Professionals nec,26.614,no_shortage
+225111,Advertising Specialist,22.0809,no_shortage
+225112,Market Research Analyst,22.0809,no_shortage
+225113,Marketing Specialist,22.0809,no_shortage
+225114,Content Creator (Marketing),22.0809,no_shortage
+225115,Digital Marketing Analyst,22.0809,no_shortage
+225211,ICT Account Manager,23.0987,no_shortage
+225212,ICT Business Development Manager,23.0987,no_shortage
+225213,ICT Sales Representative,23.0987,no_shortage
+225311,Public Relations Professional,21.2008,no_shortage
+225411,Sales Representative (Industrial Products),24.6266,no_shortage
+225412,Sales Representative (Medical and Pharmaceutical Products),24.6266,no_shortage
+225499,Technical Sales Representatives nec,24.6266,no_shortage
+231111,Aeroplane Pilot,13.6582,shortage
+231112,Air Traffic Controller,13.6582,shortage
+231113,Flying Instructor,13.6582,shortage
+231114,Helicopter Pilot,13.6582,shortage
+231199,Air Transport Professionals nec,13.6582,shortage
+231211,Master Fisher,11.9891,shortage
+231212,Ship's Engineer,11.9891,shortage
+231213,Ship's Master,11.9891,shortage
+231214,Ship's Officer,11.9891,shortage
+231215,Marine Surveyor,11.9891,no_shortage
+231299,Marine Transport Professionals nec,11.9891,no_shortage
+232111,Architect,19.2018,no_shortage
+232112,Landscape Architect,19.2018,no_shortage
+232212,Surveyor,18.6132,shortage
+232213,Cartographer,18.6132,no_shortage
+232214,Other Spatial Scientist,18.6132,shortage
+232311,Fashion Designer,20.923,no_shortage
+232312,Industrial Designer,20.923,no_shortage
+232313,Jewellery Designer,20.923,no_shortage
+232411,Graphic Designer,18.9583,no_shortage
+232412,Illustrator,18.9583,no_shortage
+232413,Multimedia Designer,18.9583,no_shortage
+232414,Web Designer,18.9583,no_shortage
+232511,Interior Designer,20.023,no_shortage
+232611,Urban and Regional Planner,17.6309,
+233111,Chemical Engineer,23.1847,no_shortage
+233112,Materials Engineer,23.1847,no_shortage
+233211,Civil Engineer,20.9866,shortage
+233212,Geotechnical Engineer,20.9866,shortage
+233213,Quantity Surveyor,20.9866,shortage
+233214,Structural Engineer,20.9866,shortage
+233215,Transport Engineer,20.9866,shortage
+233311,Electrical Engineer,21.7959,shortage
+233411,Electronics Engineer,22.9466,no_shortage
+233511,Industrial Engineer,23.0659,no_shortage
+233512,Mechanical Engineer,23.0659,no_shortage
+233513,Production or Plant Engineer,23.0659,no_shortage
+233611,Mining Engineer (excluding Petroleum),18.4765,shortage
+233612,Petroleum Engineer,18.4765,shortage
+233911,Aeronautical Engineer,22.9634,shortage
+233912,Agricultural Engineer,22.9634,shortage
+233913,Biomedical Engineer,22.9634,shortage
+233914,Engineering Technologist,22.9634,shortage
+233915,Environmental Engineer,22.9634,shortage
+233916,Naval Architect / Marine Designer,22.9634,shortage
+233999,Engineering Professionals nec,22.9634,no_shortage
+234111,Agricultural Consultant,17.4803,shortage
+234113,Forester / Forest Scientist,17.4803,shortage
+234114,Agricultural Research Scientist,17.4803,shortage
+234115,Agronomist,17.4803,shortage
+234116,Aquaculture or Fisheries Scientist,17.4803,shortage
+234211,Chemist,19.5706,no_shortage
+234212,Food Technologist,19.5706,no_shortage
+234213,Wine Maker,19.5706,no_shortage
+234311,Conservation Officer,16.6392,no_shortage
+234312,Environmental Consultant,16.6392,no_shortage
+234313,Environmental Research Scientist,16.6392,shortage
+234314,Park Ranger,16.6392,no_shortage
+234399,Environmental Scientists nec,16.6392,no_shortage
+234411,Geologist,16.5509,shortage
+234412,Geophysicist,16.5509,shortage
+234413,Hydrogeologist,16.5509,shortage
+234511,Life Scientist (General),19.7506,no_shortage
+234513,Biochemist,19.7506,no_shortage
+234514,Biotechnologist,19.7506,no_shortage
+234515,Botanist,19.7506,no_shortage
+234516,Marine Biologist,19.7506,no_shortage
+234517,Microbiologist,19.7506,no_shortage
+234521,Entomologist,19.7506,no_shortage
+234522,Zoologist,19.7506,no_shortage
+234599,Life Scientists nec,19.7506,no_shortage
+234611,Medical Laboratory Scientist,24.8064,no_shortage
+234612,Respiratory Scientist,24.8064,no_shortage
+234711,Veterinarian,17.7978,shortage
+234911,Conservator,24.6843,no_shortage
+234912,Metallurgist,24.6843,shortage
+234913,Meteorologist,24.6843,no_shortage
+234914,Physicist,24.6843,no_shortage
+234915,Exercise Physiologist,24.6843,no_shortage
+234999,Natural and Physical Science Professionals nec,24.6843,no_shortage
+241111,Early Childhood (Pre-primary School) Teacher,12.0843,shortage
+241213,Primary School Teacher,11.7124,shortage
+241311,Middle School Teacher / Intermediate School Teacher,11.8935,shortage
+241411,Secondary School Teacher,11.6803,shortage
+241511,Special Needs Teacher,12.6403,shortage
+241512,Teacher of the Hearing Impaired,12.6403,shortage
+241513,Teacher of the Sight Impaired,12.6403,shortage
+241599,Special Education Teachers nec,12.6403,shortage
+242111,University Lecturer,20.0392,no_shortage
+242112,University Tutor,20.0392,no_shortage
+242211,Vocational Education Teacher / Polytechnic Teacher,19.1946,shortage
+249111,Education Adviser,14.3937,no_shortage
+249112,Education Reviewer,14.3937,no_shortage
+249211,Art Teacher (Private Tuition),13.7664,no_shortage
+249212,Dance Teacher (Private Tuition),13.7664,no_shortage
+249213,Drama Teacher (Private Tuition),13.7664,no_shortage
+249214,Music Teacher (Private Tuition),13.7664,no_shortage
+249299,Private Tutors and Teachers nec,13.7664,no_shortage
+249311,Teacher of English to Speakers of Other Languages,14.1092,no_shortage
+251111,Dietitian,30.3962,no_shortage
+251112,Nutritionist,30.3962,no_shortage
+251211,Medical Diagnostic Radiographer,33.1274,shortage
+251212,Medical Radiation Therapist,33.1274,
+251213,Nuclear Medicine Technologist,33.1274,shortage
+251214,Sonographer,33.1274,shortage
+251311,Environmental Health Officer,19.7724,
+251312,Occupational Health and Safety Adviser,19.7724,no_shortage
+251411,Optometrist,32.9377,no_shortage
+251412,Orthoptist,32.9377,shortage
+251511,Hospital Pharmacist,19.959,
+251512,Industrial Pharmacist,19.959,no_shortage
+251513,Retail Pharmacist,19.959,shortage
+251911,Health Promotion Officer,26.951,no_shortage
+251912,Orthotist or Prosthetist,26.951,shortage
+251999,Health Diagnostic and Promotion Professionals nec,26.951,shortage
+252111,Chiropractor,35.9718,shortage
+252112,Osteopath,35.9718,shortage
+252211,Acupuncturist,33.9672,no_shortage
+252212,Homoeopath,33.9672,no_shortage
+252213,Naturopath,33.9672,no_shortage
+252214,Traditional Chinese Medicine Practitioner,33.9672,no_shortage
+252299,Complementary Health Therapists nec,33.9672,no_shortage
+252311,Dental Specialist,35.7786,shortage
+252312,Dentist,35.7786,shortage
+252411,Occupational Therapist,33.0965,shortage
+252511,Physiotherapist,35.0993,shortage
+252611,Podiatrist,35.713,shortage
+252711,Audiologist,32.7193,shortage
+252712,Speech Pathologist / Speech Language Therapist,32.7193,shortage
+253111,General Practitioner,32.9624,shortage
+253112,Resident Medical Officer,32.9624,shortage
+253211,Anaesthetist,33.1865,shortage
+253311,Specialist Physician (General Medicine),32.847,shortage
+253312,Cardiologist,32.847,shortage
+253313,Clinical Haematologist,32.847,shortage
+253314,Medical Oncologist,32.847,shortage
+253315,Endocrinologist,32.847,shortage
+253316,Gastroenterologist,32.847,shortage
+253317,Intensive Care Specialist,32.847,shortage
+253318,Neurologist,32.847,shortage
+253321,Paediatrician,32.847,shortage
+253322,Renal Medicine Specialist,32.847,shortage
+253323,Rheumatologist,32.847,shortage
+253324,Thoracic Medicine Specialist,32.847,shortage
+253399,Specialist Physicians nec,32.847,shortage
+253411,Psychiatrist,32.2648,shortage
+253511,Surgeon (General),33.1452,shortage
+253512,Cardiothoracic Surgeon,33.1452,shortage
+253513,Neurosurgeon,33.1452,shortage
+253514,Orthopaedic Surgeon,33.1452,shortage
+253515,Otorhinolaryngologist,33.1452,shortage
+253516,Paediatric Surgeon,33.1452,shortage
+253517,Plastic and Reconstructive Surgeon,33.1452,shortage
+253518,Urologist,33.1452,shortage
+253521,Vascular Surgeon,33.1452,shortage
+253911,Dermatologist,33.0213,shortage
+253912,Emergency Medicine Specialist,33.0213,shortage
+253913,Obstetrician and Gynaecologist,33.0213,shortage
+253914,Ophthalmologist,33.0213,shortage
+253915,Pathologist,33.0213,shortage
+253917,Diagnostic and Interventional Radiologist,33.0213,shortage
+253918,Radiation Oncologist,33.0213,shortage
+253999,Medical Practitioners nec,33.0213,shortage
+254111,Midwife,26.7403,shortage
+254211,Nurse Educator,23.2006,no_shortage
+254212,Nurse Researcher,23.2006,no_shortage
+254311,Nurse Manager,26.0594,no_shortage
+254411,Nurse Practitioner,26.0821,shortage
+254412,Registered Nurse (Aged Care),26.0821,shortage
+254413,Registered Nurse (Child and Family Health),26.0821,shortage
+254414,Registered Nurse (Community Health),26.0821,shortage
+254415,Registered Nurse (Critical Care and Emergency),26.0821,shortage
+254416,Registered Nurse (Developmental Disability),26.0821,shortage
+254417,Registered Nurse (Disability and Rehabilitation),26.0821,shortage
+254418,Registered Nurse (Medical),26.0821,
+254421,Registered Nurse (Medical Practice),26.0821,
+254422,Registered Nurse (Mental Health),26.0821,shortage
+254423,Registered Nurse (Perioperative),26.0821,shortage
+254424,Registered Nurse (Surgical),26.0821,
+254425,Registered Nurse (Paediatrics),26.0821,shortage
+254499,Registered Nurses nec,26.0821,no_shortage
+261111,ICT Business Analyst,25.8804,no_shortage
+261112,Systems Analyst,25.8804,no_shortage
+261113,User Experience Designer (ICT),25.8804,no_shortage
+261211,Multimedia Specialist,26.8802,no_shortage
+261212,Web Developer,26.8802,no_shortage
+261311,Analyst Programmer,26.6714,no_shortage
+261312,Developer Programmer,26.6714,no_shortage
+261313,Software Engineer,26.6714,no_shortage
+261314,Software Tester,26.6714,shortage
+261315,Cyber Security Engineer,26.6714,shortage
+261316,Devops Engineer,26.6714,shortage
+261317,Penetration Tester,26.6714,no_shortage
+261399,Software and Applications Programmers nec,26.6714,no_shortage
+262111,Database Administrator,24.0409,no_shortage
+262113,Systems Administrator,24.0409,no_shortage
+262114,Cyber Governance Risk and Compliance Specialist,24.0409,shortage
+262115,Cyber Security Advice and Assessment Specialist,24.0409,no_shortage
+262116,Cyber Security Analyst,24.0409,no_shortage
+262117,Cyber Security Architect,24.0409,shortage
+262118,Cyber Security Operations Coordinator,24.0409,shortage
+263111,Computer Network and Systems Engineer,25.1579,no_shortage
+263112,Network Administrator,25.1579,no_shortage
+263113,Network Analyst,25.1579,no_shortage
+263211,ICT Quality Assurance Engineer,25.3827,no_shortage
+263212,ICT Support Engineer,25.3827,no_shortage
+263213,ICT Systems Test Engineer,25.3827,no_shortage
+263299,ICT Support and Test Engineers nec,25.3827,no_shortage
+263311,Telecommunications Engineer,21.8855,no_shortage
+263312,Telecommunications Network Engineer,21.8855,no_shortage
+271111,Barrister,20.9474,no_shortage
+271214,Intellectual Property Lawyer,20.4413,no_shortage
+271299,Judicial and Other Legal Professionals nec,20.4413,no_shortage
+271311,Solicitor,21.2471,shortage
+272111,Careers Counsellor,23.3638,no_shortage
+272112,Drug and Alcohol Counsellor,23.3638,no_shortage
+272113,Family and Marriage Counsellor,23.3638,no_shortage
+272114,Rehabilitation Counsellor,23.3638,shortage
+272115,Student Counsellor,23.3638,no_shortage
+272199,Counsellors nec,23.3638,no_shortage
+272211,Minister of Religion,18.6425,no_shortage
+272311,Clinical Psychologist,30.6012,shortage
+272312,Educational Psychologist,30.6012,shortage
+272313,Organisational Psychologist,30.6012,shortage
+272314,Psychotherapist,30.6012,no_shortage
+272399,Psychologists nec,30.6012,shortage
+272411,Historian,21.2359,no_shortage
+272412,Interpreter,21.2359,no_shortage
+272413,Translator,21.2359,no_shortage
+272414,Archaeologist,21.2359,no_shortage
+272499,Social Professionals nec,21.2359,no_shortage
+272511,Social Worker,25.3072,no_shortage
+272611,Community Arts Worker,23.3988,no_shortage
+272612,Recreation Officer / Recreation Coordinator,23.3988,no_shortage
+272613,Welfare Worker,23.3988,no_shortage
+311112,Agricultural and Agritech Technician,8.733,shortage
+311113,Animal Husbandry Technician,8.733,no_shortage
+311114,Aquaculture or Fisheries Technician,8.733,no_shortage
+311115,Irrigation Designer,8.733,shortage
+311211,Anaesthetic Technician,17.4237,no_shortage
+311212,Cardiac Technician,17.4237,no_shortage
+311213,Medical Laboratory Technician,17.4237,no_shortage
+311214,Operating Theatre Technician,17.4237,no_shortage
+311215,Pharmacy Technician,17.4237,
+311216,Pathology Collector / Phlebotomist,17.4237,no_shortage
+311217,Respiratory Technician,17.4237,no_shortage
+311299,Medical Technicians nec,17.4237,no_shortage
+311311,Fisheries Officer,5.3964,no_shortage
+311312,Meat Inspector,5.3964,shortage
+311313,Biosecurity Officer,5.3964,no_shortage
+311314,Primary Products Quality Assurance Officer,5.3964,no_shortage
+311399,Primary Products Assurance and Inspection Officers nec,5.3964,no_shortage
+311411,Chemistry Technician,8.6044,no_shortage
+311412,Earth Science Technician,8.6044,no_shortage
+311413,Life Science Technician,8.6044,no_shortage
+311414,School Laboratory Technician,8.6044,no_shortage
+311415,Hydrographer,8.6044,no_shortage
+311499,Science Technicians nec,8.6044,no_shortage
+312111,Architectural Draftsperson,14.1799,no_shortage
+312112,Building Associate,14.1799,no_shortage
+312113,Building Inspector,14.1799,shortage
+312114,Construction Estimator,14.1799,
+312115,Plumbing Inspector,14.1799,no_shortage
+312116,Surveying or Spatial Science Technician,14.1799,shortage
+312199,"Architectural, Building and Surveying Technicians nec",14.1799,no_shortage
+312211,Civil Engineering Draftsperson,11.2691,shortage
+312212,Civil Engineering Technician,11.2691,shortage
+312311,Electrical Engineering Draftsperson,11.8941,no_shortage
+312312,Electrical Engineering Technician,11.8941,
+312411,Electronic Engineering Draftsperson,12.0549,no_shortage
+312412,Electronic Engineering Technician,12.0549,shortage
+312511,Mechanical Engineering Draftsperson,12.6209,shortage
+312512,Mechanical Engineering Technician,12.6209,shortage
+312611,Safety Inspector,10.6604,no_shortage
+312911,Maintenance Planner,11.6514,no_shortage
+312912,Metallurgical or Materials Technician,11.6514,shortage
+312913,Mine Deputy,11.6514,no_shortage
+312914,Other Draftsperson,11.6514,no_shortage
+312999,Building and Engineering Technicians nec,11.6514,no_shortage
+313111,Hardware Technician,17.4427,no_shortage
+313112,ICT Customer Support Officer,17.4427,no_shortage
+313113,Web Administrator,17.4427,no_shortage
+313199,ICT Support Technicians nec,17.4427,no_shortage
+313211,Radiocommunications Technician,13.7163,no_shortage
+313212,Telecommunications Field Engineer,13.7163,no_shortage
+313213,Telecommunications Network Planner,13.7163,no_shortage
+313214,Telecommunications Technical Officer or Technologist,13.7163,no_shortage
+321111,Automotive Electrician,7.7994,shortage
+321211,Motor Mechanic (General),7.5055,shortage
+321212,Diesel Motor Mechanic,7.5055,shortage
+321213,Motorcycle Mechanic,7.5055,shortage
+321214,Small Engine Mechanic,7.5055,shortage
+322111,Blacksmith,4.8456,no_shortage
+322112,Electroplater,4.8456,no_shortage
+322113,Farrier,4.8456,shortage
+322114,Metal Casting Trades Worker,4.8456,shortage
+322115,Metal Polisher,4.8456,no_shortage
+322211,Sheetmetal Worker,10.4603,shortage
+322311,Metal Fabricator,7.4782,shortage
+322312,Pressure Welder,7.4782,shortage
+322313,Welder (First Class),7.4782,shortage
+323111,Aircraft Maintenance Engineer (Avionics),6.9314,shortage
+323112,Aircraft Maintenance Engineer (Mechanical),6.9314,shortage
+323113,Aircraft Maintenance Engineer (Structures),6.9314,shortage
+323211,Fitter (General),7.2157,shortage
+323212,Fitter and Turner,7.2157,shortage
+323213,Fitter-Welder,7.2157,shortage
+323214,Metal Machinist (First Class),7.2157,shortage
+323215,"Textile, Clothing and Footwear Mechanic",7.2157,no_shortage
+323299,Metal Fitters and Machinists nec,7.2157,no_shortage
+323311,Engraver,7.9632,no_shortage
+323312,Gunsmith,7.9632,no_shortage
+323313,Locksmith,7.9632,shortage
+323314,Precision Instrument Maker and Repairer,7.9632,shortage
+323315,Saw Doctor,7.9632,shortage
+323316,Watch and Clock Maker and Repairer,7.9632,no_shortage
+323411,Engineering Patternmaker,10.2737,shortage
+323412,Toolmaker,10.2737,shortage
+324111,Panelbeater,0.0123,shortage
+324211,Vehicle Body Builder,2.542,shortage
+324212,Vehicle Trimmer,2.542,shortage
+324311,Vehicle Painter,0.1531,shortage
+331111,Bricklayer,9.811,shortage
+331112,Stonemason,9.811,shortage
+331211,Carpenter and Joiner,10.9167,shortage
+331212,Carpenter,10.9167,shortage
+331213,Joiner,10.9167,shortage
+332111,Floor Finisher,7.5707,shortage
+332211,Painter,7.8838,shortage
+333111,Glazier,3.5515,shortage
+333211,Plasterer (Wall and Ceiling),5.7329,shortage
+333212,Renderer (Solid Plaster),5.7329,shortage
+333311,Roof Tiler,4.3851,shortage
+333411,Wall and Floor Tiler,6.3754,shortage
+334112,Airconditioning and Mechanical Services Plumber,10.2215,shortage
+334113,Drainer,10.2215,shortage
+334114,Gasfitter,10.2215,shortage
+334115,Roof Plumber,10.2215,shortage
+334116,Plumber (General),10.2215,shortage
+334117,Fire Protection Plumber,10.2215,shortage
+341111,Electrician (General),11.9847,shortage
+341112,Electrician (Special Class),11.9847,shortage
+341113,Lift Mechanic,11.9847,no_shortage
+342111,Airconditioning and Refrigeration Mechanic,6.6751,shortage
+342211,Electrical Linesworker / Electrical Line Mechanic,5.2137,shortage
+342212,Technical Cable Jointer,5.2137,shortage
+342311,Business Machine Mechanic,6.1922,no_shortage
+342312,Communications Operator,6.1922,no_shortage
+342313,Electronic Equipment Trades Worker,6.1922,
+342314,Electronic Instrument Trades Worker (General),6.1922,shortage
+342315,Electronic Instrument Trades Worker (Special Class),6.1922,shortage
+342411,Cabler (Data and Telecommunications),3.7593,shortage
+342412,Telecommunications Cable Jointer,3.7593,shortage
+342413,Telecommunications Linesworker / Telecommunications Line Mechanic,3.7593,shortage
+342414,Telecommunications Technician,3.7593,shortage
+351111,Baker,8.0492,shortage
+351112,Pastrycook,8.0492,
+351211,Butcher or Smallgoods Maker,9.5131,shortage
+351311,Chef,12.4677,
+351411,Cook,12.5419,shortage
+361111,Dog Handler or Trainer,10.9987,no_shortage
+361112,Horse Trainer,10.9987,shortage
+361113,Pet Groomer,10.9987,no_shortage
+361114,Zookeeper,10.9987,no_shortage
+361115,Kennel Hand,10.9987,no_shortage
+361116,Track Rider,10.9987,no_shortage
+361199,Animal Attendants and Trainers nec,10.9987,no_shortage
+361311,Veterinary Nurse,11.7068,shortage
+362111,Florist,4.8156,no_shortage
+362312,Sports Turf Manager,6.3076,shortage
+362313,Sports Turf Trades Worker,6.3076,no_shortage
+362411,Nurseryperson,8.7906,no_shortage
+362511,Arborist,,shortage
+362512,Tree Worker,,shortage
+362611,Gardener (General),,no_shortage
+362711,Landscape Gardener,,shortage
+362712,Irrigation Technician,,shortage
+363111,Aquaculture Supervisor,,no_shortage
+363112,Fishing Leading Hand,,no_shortage
+363113,Forestry Operations Supervisor,,no_shortage
+363114,Horticultural Supervisor or Specialist,,no_shortage
+363115,Senior Broadacre Crop and Livestock Farm Worker,,no_shortage
+363116,Senior Broadacre Crop Farm Worker,,no_shortage
+363117,Vineyard Supervisor,,no_shortage
+363199,"Senior Aquaculture, Crop and Forestry Workers nec",,no_shortage
+363211,Senior Beef Cattle Station Worker,,no_shortage
+363212,Senior Cattle and Sheep Farm Worker,,no_shortage
+363213,Senior Dairy Cattle Farm Worker,,no_shortage
+363214,Senior Piggery Stockperson,,no_shortage
+363215,Senior Sheep Farm Worker,,no_shortage
+363299,Senior Livestock Farm Workers nec,,no_shortage
+363311,Shearer,,no_shortage
+363312,Wool Classer,,no_shortage
+391111,Hairdresser,5.6075,shortage
+392111,Print Finisher,5.0752,no_shortage
+392112,Screen Printer,5.0752,no_shortage
+392211,Graphic Pre-press Trades Worker,6.4962,shortage
+392311,Printing Machinist,4.9568,no_shortage
+392312,Small Offset Printer,4.9568,no_shortage
+393111,Canvas Goods Fabricator,5.9772,no_shortage
+393112,Leather Goods Maker,5.9772,no_shortage
+393113,Sail Maker,5.9772,no_shortage
+393114,Shoemaker,5.9772,no_shortage
+393211,Apparel Cutter,9.9669,no_shortage
+393212,Clothing Patternmaker,9.9669,no_shortage
+393213,Dressmaker or Tailor,9.9669,no_shortage
+393299,Clothing Trades Workers nec,9.9669,no_shortage
+393311,Upholsterer,6.0089,shortage
+394112,Cabinet Maker,7.7997,shortage
+394113,Furniture Maker,7.7997,shortage
+394211,Furniture Finisher,6.0907,no_shortage
+394212,Picture Framer,6.0907,no_shortage
+394213,Wood Machinist,6.0907,shortage
+394214,Wood Turner,6.0907,no_shortage
+394299,Wood Machinists and Other Wood Trades Workers nec,6.0907,no_shortage
+399111,Boat Builder and Repairer,3.5717,shortage
+399112,Shipwright,3.5717,shortage
+399211,Chemical Plant Operator,9.0841,no_shortage
+399212,Gas or Petroleum Operator,9.0841,no_shortage
+399213,Power Generation Plant Operator,9.0841,no_shortage
+399311,Gallery or Museum Technician,6.9918,no_shortage
+399312,Library Technician,6.9918,no_shortage
+399411,Jeweller,13.987,shortage
+399511,Broadcast Transmitter Operator,8.2995,no_shortage
+399512,"Camera Operator (Film, Television or Video)",8.2995,no_shortage
+399513,Light Technician,8.2995,shortage
+399514,Make Up Artist,8.2995,no_shortage
+399515,Musical Instrument Maker or Repairer,8.2995,no_shortage
+399516,Sound Technician,8.2995,shortage
+399517,Television Equipment Operator,8.2995,no_shortage
+399599,Performing Arts Technicians nec,8.2995,no_shortage
+399611,Signwriter,10.2036,no_shortage
+399911,Diver,13.904,no_shortage
+399912,Interior Decorator,13.904,no_shortage
+399913,Optical Dispenser / Dispensing Optician,13.904,no_shortage
+399914,Optical Mechanic,13.904,no_shortage
+399915,Photographer's Assistant,13.904,no_shortage
+399916,Plastics Technician,13.904,no_shortage
+399918,Fire Protection Equipment Technician,13.904,
+399999,Technicians and Trades Workers nec,13.904,no_shortage
+411111,Ambulance Officer,22.6407,shortage
+411112,Intensive Care Ambulance Paramedic,22.6407,shortage
+411211,Dental Hygienist,20.6467,shortage
+411212,Dental Prosthetist,20.6467,shortage
+411213,Dental Technician,20.6467,shortage
+411214,Dental Therapist,20.6467,shortage
+411311,Diversional Therapist,18.5176,no_shortage
+411411,Enrolled Nurse,21.2781,
+411412,Mothercraft Nurse,21.2781,no_shortage
+411511,Aboriginal and Torres Strait Islander Health Worker,20.2189,shortage
+411611,Massage Therapist,21.7625,no_shortage
+411711,Community Worker,11.8872,no_shortage
+411712,Disabilities Services Officer,11.8872,no_shortage
+411713,Family Support Worker,11.8872,no_shortage
+411714,Parole or Probation Officer,11.8872,no_shortage
+411715,Residential Care Officer,11.8872,no_shortage
+411716,Youth Worker,11.8872,no_shortage
+421111,Child Care Worker,4.5317,shortage
+421112,Family Day Care Worker,4.5317,no_shortage
+421113,Nanny,4.5317,no_shortage
+421114,Out of School Hours Care Worker,4.5317,
+422111,Aboriginal and Torres Strait Islander Education Worker,9.658,no_shortage
+422112,Integration Aide,9.658,no_shortage
+422115,Preschool Aide,9.658,no_shortage
+422116,Teachers' Aide,9.658,no_shortage
+423111,Aged or Disabled Carer,18.1239,shortage
+423211,Dental Assistant,26.8245,no_shortage
+423311,Hospital Orderly,24.6755,no_shortage
+423312,Nursing Support Worker,24.6755,no_shortage
+423313,Personal Care Assistant,24.6755,no_shortage
+423314,Therapy Aide,24.6755,no_shortage
+423411,Child or Youth Residential Care Assistant,13.9793,no_shortage
+423412,Hostel Parent,13.9793,no_shortage
+423413,Refuge Worker,13.9793,no_shortage
+431111,Bar Attendant,11.4467,no_shortage
+431112,Barista,11.4467,no_shortage
+431311,Gaming Worker,11.2501,no_shortage
+431411,Hotel Service Manager,12.5639,no_shortage
+431511,Waiter,11.5547,no_shortage
+441211,Emergency Service Worker,11.4269,no_shortage
+441212,Fire Fighter,11.4269,no_shortage
+441312,Police Officer,11.1042,no_shortage
+442111,Prison Officer,9.5366,no_shortage
+442213,Crowd Controller,10.6475,no_shortage
+442214,Private Investigator,10.6475,no_shortage
+442216,Security Consultant,10.6475,no_shortage
+442217,Security Officer,10.6475,no_shortage
+451111,Beauty Therapist,10.5575,shortage
+451211,Driving Instructor,8.4376,no_shortage
+451311,Funeral Director,10.1464,no_shortage
+451399,Funeral Workers nec,10.1464,no_shortage
+451411,Gallery or Museum Guide,9.255,no_shortage
+451412,Tour Guide,9.255,shortage
+451511,Natural Remedy Consultant,21.3969,no_shortage
+451512,Weight Loss Consultant,21.3969,no_shortage
+451513,Herbalist (Western),21.3969,no_shortage
+451611,Tourist Information Officer,9.303,no_shortage
+451612,Travel Consultant,9.303,shortage
+451711,Flight Attendant,12.8937,
+451799,Travel Attendants nec,12.8937,no_shortage
+451811,Civil Celebrant,11.4656,no_shortage
+451814,Body Artist,11.4656,no_shortage
+451815,First Aid Trainer,11.4656,no_shortage
+451816,Religious Assistant,11.4656,no_shortage
+451899,Personal Service Workers nec,11.4656,no_shortage
+452111,Fitness Instructor,13.1055,no_shortage
+452211,Bungy Jump Master,12.0037,no_shortage
+452212,Fishing Guide,12.0037,no_shortage
+452213,Hunting Guide,12.0037,no_shortage
+452214,Mountain or Glacier Guide,12.0037,no_shortage
+452215,Outdoor Adventure Instructor,12.0037,shortage
+452216,Trekking Guide,12.0037,no_shortage
+452217,Whitewater Rafting Guide,12.0037,no_shortage
+452299,Outdoor Adventure Guides nec,12.0037,shortage
+452311,Diving Instructor (Open Water),12.1136,no_shortage
+452312,Gymnastics Coach or Instructor,12.1136,shortage
+452313,Horse Riding Coach or Instructor,12.1136,no_shortage
+452314,Snowsport Instructor,12.1136,no_shortage
+452315,Swimming Coach or Instructor,12.1136,shortage
+452316,Tennis Coach,12.1136,no_shortage
+452317,Other Sports Coach or Instructor,12.1136,no_shortage
+452318,Dog and Horse Racing Official,12.1136,no_shortage
+452321,Sports Development Officer,12.1136,no_shortage
+452322,Sports Umpire,12.1136,no_shortage
+452323,Other Sports Official,12.1136,no_shortage
+452413,Jockey,12.7083,no_shortage
+452414,Lifeguard,12.7083,no_shortage
+511111,Contract Administrator,17.3329,no_shortage
+511112,Program or Project Administrator,17.3329,no_shortage
+512111,Office Manager,8.4309,no_shortage
+512211,Health Practice Manager,17.6468,no_shortage
+512299,Practice Managers nec,17.6468,no_shortage
+521111,Personal Assistant,-5.8164,no_shortage
+521211,Secretary (General),-5.6518,no_shortage
+521212,Legal Secretary,-5.6518,no_shortage
+531111,General Clerk,18.9838,no_shortage
+532111,Data Entry Operator,-3.468,no_shortage
+532112,Machine Shorthand Reporter,-3.468,no_shortage
+532113,Word Processing Operator,-3.468,no_shortage
+541111,Call or Contact Centre Team Leader,8.327,no_shortage
+541112,Call or Contact Centre Operator,8.327,no_shortage
+541211,Information Officer,8.2771,no_shortage
+542111,Receptionist (General),8.3129,no_shortage
+542112,Admissions Clerk,8.3129,no_shortage
+542113,Hotel or Motel Receptionist,8.3129,no_shortage
+542114,Medical Receptionist,8.3129,no_shortage
+551111,Accounts Clerk,5.9288,no_shortage
+551112,Cost Clerk,5.9288,no_shortage
+551211,Bookkeeper,5.8963,no_shortage
+551311,Payroll Clerk,5.5457,no_shortage
+552111,Bank Worker,8.3865,no_shortage
+552211,Credit or Loans Officer,8.4136,no_shortage
+552311,Bookmaker,7.65,no_shortage
+552312,Insurance Consultant,7.65,no_shortage
+552313,Money Market Clerk,7.65,no_shortage
+552314,Statistical Clerk,7.65,no_shortage
+591112,Production Clerk,11.2925,no_shortage
+591113,Purchasing Officer,11.2925,no_shortage
+591115,Stock Clerk,11.2925,no_shortage
+591116,Warehouse Administrator,11.2925,no_shortage
+591117,Order Clerk,11.2925,no_shortage
+591211,Despatching and Receiving Clerk,10.7334,no_shortage
+591212,Import-Export Clerk,10.7334,no_shortage
+599111,Conveyancer,8.7748,shortage
+599112,Legal Executive,8.7748,no_shortage
+599211,Clerk of Court,7.7944,no_shortage
+599212,Court Bailiff or Sheriff,7.7944,no_shortage
+599213,Court Orderly,7.7944,no_shortage
+599214,Law Clerk,7.7944,no_shortage
+599215,Trust Officer,7.7944,no_shortage
+599311,Debt Collector,7.9583,no_shortage
+599411,Human Resource Clerk,10.1432,no_shortage
+599511,Customs Officer,6.9993,no_shortage
+599512,Immigration Officer,6.9993,no_shortage
+599513,Motor Vehicle Licence Examiner,6.9993,no_shortage
+599514,"Invasive Pest, Weed and Disease Inspector",6.9993,no_shortage
+599515,Social Security Assessor,6.9993,no_shortage
+599516,Taxation Inspector,6.9993,no_shortage
+599517,Train Examiner,6.9993,no_shortage
+599518,Transport Operations Inspector,6.9993,no_shortage
+599521,Water Inspector,6.9993,no_shortage
+599599,Inspectors and Regulatory Officers nec,6.9993,no_shortage
+599611,Insurance Investigator,7.8358,no_shortage
+599612,Insurance Loss Adjuster,7.8358,no_shortage
+599613,Insurance Risk Surveyor,7.8358,no_shortage
+599711,Library Assistant,6.4014,no_shortage
+599912,"Production Assistant (Film, Television, Radio or Stage)",10.5729,no_shortage
+599913,Proof Reader,10.5729,no_shortage
+599914,Radio Despatcher,10.5729,no_shortage
+599915,Clinical Coder,10.5729,shortage
+599916,Facilities Administrator,10.5729,no_shortage
+599999,Clerical and Administrative Workers nec,10.5729,no_shortage
+611111,Auctioneer,4.8292,no_shortage
+611112,Stock and Station Agent,4.8292,no_shortage
+611211,Insurance Agent,2.5999,no_shortage
+611311,Sales Representative (Building and Plumbing Supplies),4.2458,no_shortage
+611312,Sales Representative (Business Services),4.2458,no_shortage
+611313,Sales Representative (Motor Vehicle Parts and Accessories),4.2458,no_shortage
+611314,Sales Representative (Personal and Household Goods),4.2458,no_shortage
+611399,Sales Representatives nec,4.2458,no_shortage
+612111,Business Broker,14.1594,no_shortage
+612112,Property Manager,14.1594,no_shortage
+612113,Real Estate Agency Principal / Real Estate Agency Licensee,14.1594,no_shortage
+612114,Real Estate Agent,14.1594,no_shortage
+612115,Real Estate Representative,14.1594,no_shortage
+621311,Motor Vehicle or Caravan Salesperson,7.3454,no_shortage
+621312,Motor Vehicle Parts Interpreter / Automotive Parts Salesperson,7.3454,no_shortage
+621411,Pharmacy Sales Assistant,6.5357,no_shortage
+621511,Retail Supervisor,6.8215,no_shortage
+639211,Retail Buyer,4.075,no_shortage
+639212,Wool Buyer,4.075,no_shortage
+639511,Visual Merchandiser,4.2652,no_shortage
+639911,Other Sales Support Worker,3.7522,no_shortage
+711111,Clay Products Machine Operator,5.9652,no_shortage
+711112,Concrete Products Machine Operator,5.9652,no_shortage
+711113,Glass Production Machine Operator,5.9652,no_shortage
+711114,Stone Processing Machine Operator,5.9652,no_shortage
+711199,"Clay, Concrete, Glass and Stone Processing Machine Operators nec",5.9652,no_shortage
+711211,Industrial Spraypainter,5.766,shortage
+711311,Paper Products Machine Operator,0.7784,no_shortage
+711313,Sawmilling Operator,0.7784,shortage
+711314,Other Wood Processing Machine Operator,0.7784,shortage
+711411,Photographic Developer and Printer,4.9406,no_shortage
+711511,Plastic Cablemaking Machine Operator,5.1109,no_shortage
+711512,Plastic Compounding and Reclamation Machine Operator,5.1109,no_shortage
+711513,Plastics Fabricator or Welder,5.1109,no_shortage
+711514,Plastics Production Machine Operator (General),5.1109,no_shortage
+711515,Reinforced Plastic and Composite Production Worker,5.1109,shortage
+711516,Rubber Production Machine Operator,5.1109,no_shortage
+711599,Plastics and Rubber Production Machine Operators nec,5.1109,no_shortage
+711611,Sewing Machinist,7.5373,no_shortage
+711711,Footwear Production Machine Operator,3.502,no_shortage
+711712,Hide and Skin Processing Machine Operator,3.502,no_shortage
+711713,Knitting Machine Operator,3.502,no_shortage
+711714,Textile Dyeing and Finishing Machine Operator,3.502,no_shortage
+711715,Weaving Machine Operator,3.502,no_shortage
+711716,Yarn Carding and Spinning Machine Operator,3.502,no_shortage
+711799,Textile and Footwear Production Machine Operators nec,3.502,no_shortage
+711911,Chemical Production Machine Operator,9.0117,no_shortage
+711912,Motion Picture Projectionist,9.0117,no_shortage
+711913,Sand Blaster,9.0117,no_shortage
+711914,Sterilisation Technician,9.0117,no_shortage
+711999,Machine Operators nec,9.0117,no_shortage
+712111,"Crane, Hoist or Lift Operator",7.8401,shortage
+712211,Driller,5.8218,shortage
+712212,Miner,5.8218,
+712213,Shot Firer,5.8218,no_shortage
+712311,Engineering Production Worker,11.6324,no_shortage
+712911,Boiler or Engine Operator,6.8638,no_shortage
+712912,Bulk Materials Handling Plant Operator,6.8638,no_shortage
+712913,Cement Production Plant Operator,6.8638,no_shortage
+712914,Concrete Batching Plant Operator,6.8638,no_shortage
+712915,Concrete Pump Operator,6.8638,no_shortage
+712916,Paper and Pulp Mill Operator,6.8638,no_shortage
+712917,Railway Signal Operator,6.8638,no_shortage
+712918,Train Controller,6.8638,no_shortage
+712921,Waste Water or Water Plant Operator,6.8638,no_shortage
+712922,Weighbridge Operator,6.8638,no_shortage
+712999,Stationary Plant Operators nec,6.8638,no_shortage
+721111,Agricultural and Horticultural Mobile Plant Operator,3.9601,
+721112,Logging Plant Operator,3.9601,no_shortage
+721211,Earthmoving Plant Operator (General),4.2967,
+721212,Backhoe Operator,4.2967,no_shortage
+721213,Bulldozer Operator,4.2967,shortage
+721214,Excavator Operator,4.2967,shortage
+721215,Grader Operator,4.2967,shortage
+721216,Loader Operator,4.2967,shortage
+721311,Forklift Driver,3.4554,no_shortage
+721911,Aircraft Baggage Handler and Airline Ground Crew,3.7265,no_shortage
+721912,Linemarker,3.7265,shortage
+721913,Paving Plant Operator,3.7265,no_shortage
+721914,Railway Track Plant Operator,3.7265,shortage
+721915,Road Roller Operator,3.7265,shortage
+721916,Streetsweeper Operator,3.7265,no_shortage
+721999,Mobile Plant Operators nec,3.7265,no_shortage
+731111,Chauffeur,9.306,no_shortage
+731112,Taxi Driver,9.306,no_shortage
+731199,Automobile Drivers nec,9.306,no_shortage
+731211,Bus Driver,9.2388,shortage
+731212,Charter and Tour Bus Driver,9.2388,shortage
+731213,Passenger Coach Driver,9.2388,no_shortage
+731311,Train Driver,6.2709,
+731312,Tram Driver,6.2709,no_shortage
+732111,Delivery Driver,21.3013,no_shortage
+733111,Truck Driver (General),4.0443,shortage
+733112,Aircraft Refueller,4.0443,no_shortage
+733113,Furniture Removalist,4.0443,no_shortage
+733114,Tanker Driver,4.0443,no_shortage
+733115,Tow Truck Driver,4.0443,no_shortage
+741111,Storeperson,13.2728,no_shortage
+811611,Carpet Cleaner,3.8332,no_shortage
+821311,Fencer,5.3026,no_shortage
+821411,Building Insulation Installer,6.4849,no_shortage
+821412,Home Improvement Installer,6.4849,no_shortage
+821611,Railway Track Worker,1.2345,shortage
+821711,Construction Rigger,4.5859,no_shortage
+821712,Scaffolder,4.5859,shortage
+821713,Steel Fixer,4.5859,shortage
+821714,Structural Steel Erector,4.5859,shortage
+821911,Crane Chaser,0.976,no_shortage
+831211,Meat Boner and Slicer,-3.3605,no_shortage
+831212,Slaughterer,-3.3605,no_shortage
+839311,Product Examiner,2.0117,no_shortage
+839312,Product Grader,2.0117,no_shortage
+839313,Product Tester,2.0117,no_shortage
+842211,Cotton Farm Worker,,no_shortage
+842214,"Grain, Oilseed, Pulse and Pasture Farm Worker",,no_shortage
+842217,Sugar Cane Farm Worker,,no_shortage
+842222,Vineyard Worker,,no_shortage
+842311,Beef Cattle Farm Worker,,no_shortage
+842312,Cattle and Sheep Farm Worker,,no_shortage
+842313,Dairy Cattle Farm Worker,,no_shortage
+842314,Livestock Husbandry Worker,,no_shortage
+842315,Piggery Farm Worker,,no_shortage
+842316,Poultry Farm Worker,,no_shortage
+842317,Sheep Farm Worker,,no_shortage
+843111,Forestry Worker,,no_shortage
+843112,Logging Assistant,,no_shortage
+843113,Tree Faller,,no_shortage
+843411,Pest Control Technician,,no_shortage
+899211,Deck Hand,2.9743,shortage
+899212,Fishing Hand,2.9743,no_shortage
+899411,Motor Vehicle Parts and Accessories Fitter (General),4.614,shortage
+899412,Autoglazier,4.614,shortage
+899413,Exhaust and Muffler Repairer,4.614,no_shortage
+899414,Radiator Repairer,4.614,no_shortage
+899415,Tyre Fitter,4.614,no_shortage
+899511,Printer's Assistant,-0.0804,no_shortage
+899512,Printing Table Worker,-0.0804,no_shortage
